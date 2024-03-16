@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mobile applications with Jetpack Compose**
 
-- 💬 Ask me about **DSA, applications and their UI and backend**
+- 💬 Ask me about **DSA, Mobile applications and their UI and backend**
 
 - 📫 How to reach me **sahusoumyaranjans123@gmail.com**
 
